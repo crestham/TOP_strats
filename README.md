@@ -34,7 +34,10 @@ D3    D4
 MT    ST  
 
 ### Shape order
-:o:  :x:  🔺  🟥
+:o:  
+:x:  
+🔺  
+🟥
 
 ### P2 Limitless Synergy
 Bait Line AoE Between A and 1
@@ -57,10 +60,10 @@ Set 4: Blue tethers wait for heal then break
 ![Monitor positions diagram](https://media.discordapp.net/attachments/1136883459701350491/1136883944483213312/monitors_pt_left.png?width=484&height=484)
 
 ## Phase 4
-  MT            ST  
-H1               H2  
-  D3           D4  
-     D1       D2  
+  MT            ST  
+H1                H2  
+  D3            D4  
+    D1        D2  
 
 Melees will swap if no stack marker on their side
 
@@ -81,7 +84,11 @@ Inner christmas tether: Overlap hands, bait hands, move out past the waymark, wa
 ![Hello world positions](https://media.discordapp.net/attachments/1136883459701350491/1136884933592363068/image.png)
 
 ### Sigma Spread
-:o:  :x:  🔺  🟥  lineup at relative north
+:o:  
+:x:  
+🔺  
+🟥  
+lineup at relative north
 
 Pairs with two markers:
 
