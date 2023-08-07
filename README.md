@@ -1,12 +1,12 @@
 # TOP_strats
 
 ## Burst windows
-Start of P1 (Pot)
-Start of P2
-End of P2
-In between 2nd and 3rd set of Hello World (Pot)
-2nd Stack of P4
-End of Delta/Pre-sigma
+Start of P1 (Pot)  
+Start of P2  
+End of P2  
+In between 2nd and 3rd set of Hello World (Pot)  
+2nd Stack of P4  
+End of Delta/Pre-sigma  
 Start of Omega (Pot)
 
 ## Phase 1
@@ -15,7 +15,7 @@ Start of Omega (Pot)
 MTSTH1H2 D1234
 
 ### Pantokrator Priority
-Waymark 4 H1MTSTD1 D234H2 Waymark 2
+Waymark 4 H1MTSTD1 D234H2 Waymark 2  
 Rotate clockwise if waymark is covered
 
 ## Phase 2
@@ -24,7 +24,7 @@ Rotate clockwise if waymark is covered
 
 Tanks will be pointing boss south and take tankbuster
 
-Hitting M: H1 H2 MT D3
+Hitting M: H1 H2 MT D3  
 Hitting F: D1 D2 ST D4
 
 ### P2 Party Synergy Lineup
@@ -34,7 +34,7 @@ D3    D4
 MT    ST  
 
 ### Shape order
-:o: :x: 🔺 🟥
+:o:  :x:  🔺  🟥
 
 ### P2 Limitless Synergy
 Bait Line AoE Between A and 1
@@ -57,23 +57,23 @@ Set 4: Blue tethers wait for heal then break
 ![Monitor positions diagram](https://media.discordapp.net/attachments/1136883459701350491/1136883944483213312/monitors_pt_left.png?width=484&height=484)
 
 ## Phase 4
-  MT            ST
-H1               H2
-  D3           D4
-     D1       D2
+  MT            ST  
+H1               H2  
+  D3           D4  
+     D1       D2  
 
 Melees will swap if no stack marker on their side
 
 ## Phase 5
 
 ### Delta tethers
-Blues to Beetle
+Blues to Beetle  
 Christmas to Final Omega
 
-Outer blues: Stretch out tether, overlap hands, move in to take beyond defense, then either move to Final Omega or move to take the stack
-Inner blues: Wait for overlap hands, move out to bait hands, move to take the stack
-Outer christmas tether: Overlap hands, bait hands, move out past the waymark, move in slightly for heals after monitor, player in Beetle cleave side goes to beetle
-Inner christmas tether: Overlap hands, bait hands, move out past the waymark, wait then break tether on the safe side, bait near world
+Outer blues: Stretch out tether, overlap hands, move in to take beyond defense, then either move to Final Omega or move to take the stack  
+Inner blues: Wait for overlap hands, move out to bait hands, move to take the stack  
+Outer christmas tether: Overlap hands, bait hands, move out past the waymark, move in slightly for heals after monitor, player in Beetle cleave side goes to beetle  
+Inner christmas tether: Overlap hands, bait hands, move out past the waymark, wait then break tether on the safe side, bait near world  
 
 ![Stack position](https://media.discordapp.net/attachments/1136883459701350491/1136884817305280522/image.png?width=505&height=484)
 
@@ -81,16 +81,16 @@ Inner christmas tether: Overlap hands, bait hands, move out past the waymark, wa
 ![Hello world positions](https://media.discordapp.net/attachments/1136883459701350491/1136884933592363068/image.png)
 
 ### Sigma Spread
-:o: :x: 🔺 🟥 lineup at relative north
+:o:  :x:  🔺  🟥  lineup at relative north
 
 Pairs with two markers:
 
-The **top** pair goes **W/E** (left-side player goes W).
+The **top** pair goes **W/E** (left-side player goes W).  
 The **bottom** pair goes **N/S** (left-side player goes N).
 
 Pairs with one marker:
 
-The top pair goes NW/SE (player without a marker goes NW).
+The top pair goes NW/SE (player without a marker goes NW).  
 The bottom pair goes NE/SW (player without a marker goes NE).
 
 ### Sigma Towers
@@ -104,10 +104,10 @@ Remember your waymark from spread
 Priority: North MT ST H1 H2 D1234 South
 
 ### Omega 1st Hello world
-Chain marker: take monitors
-Normal marker: N/S far world baiters
-No marker, not first in line: bait near world
+Chain marker: take monitors  
+Normal marker: N/S far world baiters  
+No marker, not first in line: bait near world  
 
 ### Omega 2nd Hello world
-Beetle relative east
+Beetle relative east  
 North MT ST H1 H2 D1234 South
