@@ -30,8 +30,8 @@ Hitting F: D1 D2 ST D4
 ### P2 Party Synergy Lineup
 H2    D1
 H1    D2
-MT    ST
 D3    D4
+MT    ST
 
 ### Shape order
 :o: :x: 🔺 🟥
