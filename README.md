@@ -85,8 +85,9 @@ Melees will swap if no stack marker on their side
 Blues to Beetle  
 Christmas to Final Omega
 
-Outer blues: Stretch out tether, overlap hands, move in to take beyond defense, then either move to Final Omega or move to take the stack  
-Inner blues: Wait for overlap hands, move out to bait hands, move to take the stack  
+**BOLDED: Different from PF**
+Outer blues: Stretch out tether, overlap hands, **move in to take beyond defense**, then either move to Final Omega or move to take the stack  
+Inner blues: Wait for overlap hands, **move out to bait hands**, move to take the stack  
 Outer christmas tether: Overlap hands, bait hands, move out past the waymark, move in slightly for heals after monitor, player in Beetle cleave side goes to beetle  
 Inner christmas tether: Overlap hands, bait hands, move out past the waymark, wait then break tether on the safe side, bait near world  
 
