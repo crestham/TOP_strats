@@ -59,6 +59,8 @@ Prio MTSTH1H2D1234
 
 ![Paint diagram of intermission priority spots](https://media.discordapp.net/attachments/1136883459701350491/1136883653021012008/image.png?width=481&height=484)
 
+***Note that purples go clockwise from east to west instead of west to east***
+
 ## Phase 3
 
 ### Hello World order
@@ -85,9 +87,9 @@ Melees will swap if no stack marker on their side
 Blues to Beetle  
 Christmas to Final Omega
 
-**BOLDED: Different from PF**
-Outer blues: Stretch out tether, overlap hands, **move in to take beyond defense**, then either move to Final Omega or move to take the stack  
-Inner blues: Wait for overlap hands, **move out to bait hands**, move to take the stack  
+***BOLDED and italicized: Different from PF***  
+Outer blues: Stretch out tether, overlap hands, ***move in to take beyond defense***, then either move to Final Omega or move to take the stack  
+Inner blues: Wait for overlap hands, ***move out to bait hands***, move to take the stack  
 Outer christmas tether: Overlap hands, bait hands, move out past the waymark, move in slightly for heals after monitor, player in Beetle cleave side goes to beetle  
 Inner christmas tether: Overlap hands, bait hands, move out past the waymark, wait then break tether on the safe side, bait near world  
 
@@ -105,8 +107,8 @@ lineup at relative north
 
 Pairs with two markers:
 
-The **top** pair goes **W/E** (left-side player goes W).  
-The **bottom** pair goes **N/S** (left-side player goes N).
+The ***top*** pair goes ***W/E*** (left-side player goes W).  
+The ***bottom*** pair goes ***N/S*** (left-side player goes N).
 
 Pairs with one marker:
 
