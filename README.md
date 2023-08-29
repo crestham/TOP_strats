@@ -39,6 +39,18 @@ MT    ST
 🔺  
 🟥
 
+### Near
+:o: :o:  
+:x: :x:  
+🔺 🔺  
+🟥 🟥
+
+### Far
+:o: 🟥  
+:x: 🔺  
+🔺 :x:  
+🟥 :o:
+
 ### P2 Limitless Synergy
 Bait Line AoE Between A and 1
 
