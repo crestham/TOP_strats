@@ -125,6 +125,9 @@ Remember your waymark from spread
 ### Sigma hello world
 Priority: North MT ST H1 H2 D1234 South
 
+### Omega diagram
+![Omega near/far world diagram](https://media.discordapp.net/attachments/1010381710778712155/1150595761076174915/unknown-76.png?width=490&height=491)
+
 ### Omega 1st Hello world
 Chain marker: take monitors  
 Normal marker: N/S far world baiters  
