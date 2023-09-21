@@ -72,7 +72,7 @@ Set 1,2,3: Blue tethers break first by moving through non-defam tower. Defam tow
 Set 4: Blue tethers wait for heal then break
 
 ### Monitors
-![Monitor lineup diagram](https://cdn.discordapp.com/attachments/1136883459701350491/1136883900589817917/image.png)
+![Monitor lineup diagram](https://cdn.discordapp.com/attachments/583967197064331274/1154460306983100416/image.png)
 
 ![Monitor positions diagram](https://media.discordapp.net/attachments/1136883459701350491/1136883944483213312/monitors_pt_left.png?width=484&height=484)
 
