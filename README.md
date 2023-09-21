@@ -4,14 +4,16 @@
 Start of P1 (Pot)  
 Start of P2  
 End of P2  
+Optional Pot: Start of P3 (pot here to pot end of delta)  
 In between 2nd and 3rd set of Hello World (Pot)  
 2nd Stack of P4  
-End of Delta/Pre-sigma  
+End of Delta/Pre-sigma (pot here if you potted at start of P3)  
 Start of Omega (Pot)
 
 ## Phase 1
 
 ### Program Loop Priority
+***Note that this priority is different from PF***  
 MTSTH1H2 D1234
 
 ### Pantokrator Priority
@@ -30,8 +32,8 @@ Hitting F: D1 D2 ST D4
 ### P2 Party Synergy Lineup
 H2    D1  
 H1    D2  
-D3    D4  
-MT    ST  
+D3    ST
+MT    D4  
 
 ### Shape order
 :o:  
@@ -46,6 +48,7 @@ MT    ST
 🟥 🟥
 
 ### Far
+***Note that right side is completely flipped 180***  
 :o: 🟥  
 :x: 🔺  
 🔺 :x:  
@@ -126,11 +129,11 @@ Remember your waymark from spread
 Priority: North MT ST H1 H2 D1234 South
 
 ### Omega diagram
-![Omega near/far world diagram](https://media.discordapp.net/attachments/1010381710778712155/1150595761076174915/unknown-76.png?width=490&height=491)
+![Omega near/far world diagram](https://media.discordapp.net/attachments/1010381710778712155/1150646989281820722/unknown-76.jpg?width=490&height=491)
 
 ### Omega 1st Hello world
-Chain marker: take monitors  
-Normal marker: N/S far world baiters  
+Normal marker: take monitors  
+Chain marker: N/S far world baiters  
 No marker, not first in line: bait near world  
 
 ### Omega 2nd Hello world
