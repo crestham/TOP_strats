@@ -139,3 +139,20 @@ No marker, not first in line: bait near world
 ### Omega 2nd Hello world
 Beetle relative east  
 North MT ST H1 H2 D1234 South
+
+## Phase 6
+
+### Mitigation Plan
+
+Cosmo Dive 1: Reprisal 1, Heart of Light, Holos, Mantra, Addle  
+Wave Cannon 1: Reprisal 2, Veil, Zoe, Feint 1, Tactician  
+Wave Cannon 2: Reprisal 1, Passage, Dismantle, Bubble  
+Cosmo Dive 2: Reprisal 2, Feint 2, Mantra, Addle, Neutral  
+Cosmo Meteor: Reprisal 1, Veil, Zoe, Holos, Feint 1, Tactician, Panhaima, Neutral (first hit), Macrocosmos  
+
+### Spread diagram
+
+![Spread diagram](https://media.discordapp.net/attachments/1064806860265361438/1153338904674586634/image.png)
+
+![Example spread](https://media.discordapp.net/attachments/1064806860265361438/1153340472606072932/image.png?width=491&height=491)
+
