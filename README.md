@@ -12,6 +12,7 @@ Start of Omega (Pot)
 
 ## Quick Ref differences from PF
 ***Differences in the detailed strat are highlighted like this***  
+
 Program Loop Prio  
 MTSTH1H2 D1234
 
@@ -23,9 +24,11 @@ P2 Shape order for FAR
 
 Intermission: Purples go clockwise from east to west (refer to diagram below)
 
-Hello world movement: Blues break first by walking through towers, christmas wait for defam tower to move to them then go in and break
+P3 Hello world movement: Blues break first by walking through towers, christmas wait for defam tower to move to them then go in and break
 
 P3 Monitors: no AM, refer to lineup diagram
+
+P4: Check spread spots
 
 P5 Delta: Blue outers go into arena for beyond defense, blue inners bait hands on outside of arena
 
