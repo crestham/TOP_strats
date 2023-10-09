@@ -11,7 +11,7 @@ End of Delta/Pre-sigma (pot here if you potted at start of P3)
 Start of Omega (Pot)
 
 ## Quick Ref differences from PF
-***Differences in the detailed strat are highlighted like this***
+***Differences in the detailed strat are highlighted like this***  
 Program Loop Prio  
 MTSTH1H2 D1234
 
