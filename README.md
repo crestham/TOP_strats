@@ -16,7 +16,7 @@ Start of Omega (Pot)
 Program Loop Prio  
 MTSTH1H2 D1234
 
-P2 Shape order for FAR 
+P2 Shape order for FAR  
 :o: 🟥  
 :x: 🔺  
 🔺 :x:  
