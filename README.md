@@ -10,6 +10,34 @@ In between 2nd and 3rd set of Hello World (Pot)
 End of Delta/Pre-sigma (pot here if you potted at start of P3)  
 Start of Omega (Pot)
 
+## Quick Ref differences from PF
+***Differences in the detailed strat are highlighted like this***
+Program Loop Prio  
+MTSTH1H2 D1234
+
+P2 Shape order for FAR 
+:o: 🟥  
+:x: 🔺  
+🔺 :x:  
+🟥 :o:
+
+Intermission: Purples go clockwise from east to west (refer to diagram below)
+
+Hello world movement: Blues break first by walking through towers, christmas wait for defam tower to move to them then go in and break
+
+P3 Monitors: no AM, refer to lineup diagram
+
+P5 Delta: Blue outers go into arena for beyond defense, blue inners bait hands on outside of arena
+
+P5 Sigma: First 2 marker pair goes E/W, 2nd 2 marker pair goes N/S
+
+P5 Omega: Normal marker is monitors, ignore marker is north/south bait. No marker is either near world bait or first near/distant world  
+Check diagram for near world position
+
+P6: Check spread diagram
+
+# Detailed Strat
+
 ## Phase 1
 
 ### Program Loop Priority
@@ -67,7 +95,7 @@ Prio MTSTH1H2D1234
 ## Phase 3
 
 ### Hello World order
-Set 1,2,3: Blue tethers break first by moving through non-defam tower. Defam tower move to christmas tethers then christmas tethers break
+***Set 1,2,3: Blue tethers break first by moving through non-defam tower. Defam tower move to christmas tethers then christmas tethers break***
 
 Set 4: Blue tethers wait for heal then break
 
@@ -133,7 +161,7 @@ Priority: North MT ST H1 H2 D1234 South
 
 ### Omega 1st Hello world
 Normal marker: take monitors  
-Chain marker: N/S far world baiters  
+Ignore marker: N/S far world baiters  
 No marker, not first in line: bait near world  
 
 ### Omega 2nd Hello world
