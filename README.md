@@ -109,8 +109,8 @@ Set 4: Blue tethers wait for heal then break
 
 ## Phase 4
   MT            ST  
-H1                H2  
-  D3            D4  
+D3                H2  
+  H1            D4  
     D1        D2  
 
 Melees will swap if no stack marker on their side
