@@ -13,8 +13,14 @@ Start of Omega (Pot)
 ## Quick Ref differences from PF
 ***Differences in the detailed strat are highlighted like this***  
 
+P1 Start: Point boss at SE
+
 Program Loop Prio  
 MTSTH1H2 D1234
+
+P2 Start: MT and ST point F/M south
+
+Check P2 Lineup order
 
 P2 Shape order for FAR  
 :o: 🟥  
@@ -33,6 +39,8 @@ P4: Check spread spots
 P5 Delta: Blue outers go into arena for beyond defense, blue inners bait hands on outside of arena
 
 P5 Sigma: First 2 marker pair goes E/W, 2nd 2 marker pair goes N/S
+
+P5 Sigma: Someone will call out which 3 1-dyna-stack players go north. Line up against wall to determine who goes where. Players with near/far world move in by 1/2 rings for clarity
 
 P5 Omega: Normal marker is monitors, ignore marker is north/south bait. No marker is either near world bait or first near/distant world  
 Check diagram for near world position
